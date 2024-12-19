@@ -1,0 +1,12 @@
+h1 {
+    background-color: aqua;
+    font-size: 100px;
+
+}
+p {
+    font: size 50px;
+    background-color: rgba(155, 42, 130, 1);
+}
+body {
+    background-color: blueviolet;
+}
